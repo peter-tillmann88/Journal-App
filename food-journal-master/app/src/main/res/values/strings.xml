@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">foodjournalProject</string>
+    <string name="breakfastText">Breakfast</string>
+    <string name="lunchText">Lunch</string>
+    <string name="dinnerText">Dinner</string>
+    <string name="extraNotesText">Notes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="exercise">exercise</string>
+    <string name="backButton_uentrypage" />
+</resources>
